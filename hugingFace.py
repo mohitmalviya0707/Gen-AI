@@ -5,8 +5,8 @@ embedding = HuggingFaceEmbeddings(
 
 )
 texts = [
-    "Hello this is Akarsh Vyas",
-    "Hello your name is YouTube",
+    "Hello this is Mohit Malviya ",
+    "you are my robo",
     "And you all are very beautiful"
 ]
 
