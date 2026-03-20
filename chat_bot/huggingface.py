@@ -1,7 +1,7 @@
 from langchain_huggingface import ChatHuggingFace
 
 llm = HuggingFaceEndpoint(
-    repo_id = "Gpt4.1"
+    repo_id = "google/flan-t5-base""
 
 
 )
