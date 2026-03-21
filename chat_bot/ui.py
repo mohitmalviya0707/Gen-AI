@@ -12,7 +12,7 @@ model = ChatMistralAI(model="mistral-small-2506", temperature=0.9)
 
 
 # ---------------- PAGE ----------------
-st.set_page_config(
+st.set_page_config(  
     page_title="AI Mood Chatbot",
     page_icon="🤖",
     layout="centered"
