@@ -10,7 +10,7 @@ model = ChatMistralAI(
     temperature=0.9
 )
 
-# ---------------- MODE SELECTION ----------------
+# ---------------- MODE SELECTION ----------------    
 print("Choose your AI model")
 print("Press 1 for Angry model")
 print("Press 2 for Funny model")
